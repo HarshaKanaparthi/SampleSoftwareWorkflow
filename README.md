@@ -1,2 +1,1 @@
-# SampleSoftwareWorkflow
-It is a sample repository
+I'm a new person in the software-workflow project
