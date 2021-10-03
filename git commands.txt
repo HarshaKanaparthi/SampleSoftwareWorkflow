@@ -1,0 +1,14 @@
+git version
+git config --global
+git config --global user.name "Harsha"
+git config --global user.email "2000030442@kluniversity.in"
+git config --global -e
+git config --list
+git help config
+clear
+--------------------------
+notepad path into path
+command:notepad++
+git config --global core.editor "notepad++.exe -nultiInst -nosession"
+git config --global --list
+git config --global -e
